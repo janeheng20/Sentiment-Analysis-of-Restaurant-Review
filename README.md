@@ -4,7 +4,7 @@
 This project focuses on analyzing public sentiment from restaurant reviews collected from Kaggle. The dataset features customer opinions, star ratings, and timestamps, offering insights into dining experiences across numerous restaurants.
 
 ## 🎯 Objective
-The main goal is to gain insights into customer sentiment trends, explore how sentiment shifts across restaurants and over time, and build models that can accurately classify review sentiment into positive, neutral, or negative categories.
+The main goal is to gain insights into customer sentiment trends and build models that can accurately classify review sentiment into positive, neutral, or negative categories.
 
 ## 🧰 Models Used
 Three models are considered for sentiment classification:
