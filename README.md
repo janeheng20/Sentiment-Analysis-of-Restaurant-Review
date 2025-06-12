@@ -18,6 +18,12 @@ Three models are considered for sentiment classification:
 3. **Model 3**  
    Example
 
+4. **Model 4**  
+   Example
+
+5. **Model 5**  
+   Example
+
 ## 📊 Result Highlights
 - Result 1
 - Result 2
