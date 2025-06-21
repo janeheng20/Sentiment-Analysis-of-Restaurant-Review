@@ -1,29 +1,19 @@
 # 🍽️ Restaurant Review Sentiment Analysis
 
 ## 📖 Introduction
-This project focuses on analyzing public sentiment from restaurant reviews collected from Kaggle. The dataset features customer opinions, star ratings, and timestamps, offering insights into dining experiences across numerous restaurants.
+This project focuses on analyzing public sentiment from restaurant reviews, sourced from Kaggle. The dataset features customer opinions, star ratings, and timestamps, offering insights into dining experiences across numerous restaurants.
 
 ## 🎯 Objective
 The main goal is to gain insights into customer sentiment trends and build models that can accurately classify review sentiment into positive, neutral, or negative categories.
 
 ## 🧰 Models Used
-Three models are considered for sentiment classification:
+Four models are tested for sentiment classification:
 
-1. **Model 1**  
-   Example
-
-2. **Model 2**  
-   Example
-
-3. **Model 3**  
-   Example
-
-4. **Model 4**  
-   Example
-
-5. **Model 5**  
-   Example
-
+1. **Logistric Regression**  
+2. **Naive Bayes**  
+3. **Support Vector Machine (SVM)**  
+4. **Distiled Bidirectional Encoder Representations from Transformers (DistilBERT)**
+   
 ## 📊 Result Highlights
 - Result 1
 - Result 2
