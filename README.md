@@ -29,3 +29,15 @@ Four models are tested for sentiment classification:
 - Use more data augmentation and include external sentiment data to enrich the dataset
 - Apply explainable AI methods to better understand model decisions
 
+## 🗂️ File Descriptions
+1. Restaurant reviews.csv
+   - Original dataset
+2. Augmented_Sentiment_data.csv
+   - The final dataset used for training and evaluation, including augmented reviews and sentiment labels
+3. SMC_Project_Sentiment + ML.ipynb
+   - Jupyter notebook performing traditional ML modeling (Logistic Regression, Naive Bayes, SVC), including tuning, evaluation, and visualization.
+4. SMC_Project_Transformer_KFold_Hyperparameter.ipynb
+   - Notebook implementing hyperparameter tuning and K-Fold cross-validation for DistilBERT
+5. model_save_DistilBert.py
+   - Python script to train and save two DistilBERT models:
+      - one using standard training, and one using class-weighted loss to address class imbalance.
